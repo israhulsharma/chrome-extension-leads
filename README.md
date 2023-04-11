@@ -13,7 +13,7 @@ A Chrome extension to save leads online in the form of URLs
 ## Design
 ### Screenshots
 Desktop
-![]https://github.com/israhulsharma/chrome-extension-leads/blob/main/chrome-extension-demo.gif)
+![](https://github.com/israhulsharma/chrome-extension-leads/blob/main/chrome-extension-demo.gif)
 
 ### Links
 
